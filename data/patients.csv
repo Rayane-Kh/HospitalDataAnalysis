@@ -1,0 +1,11 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+P001,45,M,130/85,200,Healthy
+P002,59,F,145/95,240,Hypertension
+P003,33,M,120/80,180,Healthy
+P004,67,F,160/100,260,Heart Disease
+P005,50,M,138/88,220,Pre-hypertension
+P006,29,F,115/75,170,Healthy
+P007,72,M,155/98,245,Hypertension
+P008,40,F,125/82,190,Healthy
+P009,53,M,142/90,230,Pre-hypertension
+P010,61,F,150/96,250,Heart Disease
